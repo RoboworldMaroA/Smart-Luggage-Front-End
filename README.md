@@ -16,3 +16,5 @@ Why the SmartLuggage app will make a traveller's life easier?
 
 
 To test aplication use a link https://frontendsmartluggage.herokuapp.com/ 
+
+JavaScript, React, HTML, Materializecss
