@@ -15,6 +15,6 @@ Why the SmartLuggage app will make a traveller's life easier?
 • SmartLuggage is designed to make packing easy, fast and pleasant from now on
 
 
-To test aplication use a link https://frontendsmartluggage.herokuapp.com/ 
+To test aplication use a link https://smartluggage.herokuapp.com/ 
 
 JavaScript, React, HTML, Materializecss
